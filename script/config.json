@@ -7,7 +7,7 @@
     "withGetCCIPAdmin": false,
     "ccipAdminAddress": "0x0000000000000000000000000000000000000000"
   },
-  "tokenAddress":"",
+  "tokenAddress":"0x5fd84259d66Cd46123540766Be93DFE6D43130D7",
   "tokenAmountToMint": 1000000000000000000000,
   "tokenAmountToTransfer": 10000,
   "feeType": "native",
